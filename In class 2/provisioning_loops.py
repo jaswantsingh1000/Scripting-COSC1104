@@ -1,6 +1,6 @@
 """
-Author: [Your Name]
-Date: [Current Date]
+Author: [Jaswant Singh]
+Date: [2024/09/27]
 Description: This script simulates a cloud resource provisioning system using loops and lists.
 It allows multiple resource allocation requests and keeps track of allocated resources and pending requests.
 """
